@@ -1,3 +1,4 @@
+/* eslint-disable @typescript-eslint/no-explicit-any */
 /* eslint-disable import/prefer-default-export */
 import { IconButton } from "@chakra-ui/react";
 import { motion } from "framer-motion";
