@@ -1,3 +1,4 @@
+/* eslint-disable jsx-a11y/anchor-is-valid */
 /* eslint-disable no-lone-blocks */
 import { Flex, keyframes } from "@chakra-ui/react";
 import Link from "next/link";
