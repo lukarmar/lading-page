@@ -18,7 +18,7 @@ const WhatsappButton = () => {
   const pulseAnimation = `${pulse} 2s infinite`;
 
   return (
-    <Link href="https://wa.me/552140426050?text=Gostaria%20de%20atendimento">
+    <Link href="#">
       <a target="_blank">
         <Flex
           pos="fixed"
